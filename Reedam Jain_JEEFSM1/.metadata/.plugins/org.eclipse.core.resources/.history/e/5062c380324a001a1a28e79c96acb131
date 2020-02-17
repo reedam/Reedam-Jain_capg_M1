@@ -1,0 +1,12 @@
+package com.cpg.practicequestion.exercise3;
+
+public class StringRepeatFront {
+	
+	
+	
+	String repeat(String str,int n)
+	{
+		
+	}
+
+}
